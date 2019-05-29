@@ -1,0 +1,23 @@
+package sf;
+
+public class Xyj {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+
+	}
+
+}
+
+class Swk{
+	String name=" ÈŒÚø’";
+	String wuqi="Î÷π«∞Ô";
+	int zhandouli=5;
+	int naili=5;
+}
+class Ts{
+	String name="Ã∆…Æ";
+	String wuqi=null;
+	int zhandouli=0;
+	int naili=5;
+}
